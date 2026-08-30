@@ -5,25 +5,18 @@ My post-installation programs and extensions for Linux distributions.
 ---
 ## Terminal
 
+- [zsh](https://www.zsh.org/) - Z shell, a powerful interactive shell and scripting language.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Oh-My-Zsh is a framework for Zsh, the Z shell.
-- [leomaurodesenv/.zshrc](https://gist.github.com/leomaurodesenv/ed4300bc2ac9fb4016c30d706b74983a) - My definitions for Oh-My-Zsh.
 
 ### Performance check
 
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring.
 
----
-## Gnome-extensions
-
-- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) - Application menu for Gnome.
-- [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Taskbar for the Gnome.
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Display weather information.
-- [Timezones extension](https://extensions.gnome.org/extension/2657/timezones-extension/) - Show multiple clocks in the panel.
-
 ### Appearance
 
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Dark theme for Ubuntu. [tutorial](https://www.omgubuntu.co.uk/2020/04/enable-full-dark-mode-in-ubuntu-20-04).
 - [Dracula](https://www.gnome-look.org/p/1687249) - Dark theme for GTK. [Github](https://github.com/dracula/gtk).
+- [Bazzite Desktop Environment Tweaks](https://docs.bazzite.gg/General/Desktop_Environment_Tweaks/) - Customization and desktop appearance tweaks for Bazzite.
 
 ---
 ## Programming
@@ -32,6 +25,11 @@ My post-installation programs and extensions for Linux distributions.
 - [Sublime Text: SFTP](https://artisansweb.net/use-ftpsftp-sublime-text/) - SFTP plugin for Sublime Text.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 - [Visual Studio Code: Settings Sync](https://gist.github.com/leomaurodesenv/a5eb1493f611e4c710011f2da480cb2e) - Visual Studio Code Settings Sync.
+
+### Suggested operating systems
+
+- [Bazzite](https://bazzite.gg/) - A gaming-focused Linux distribution built on Fedora Atomic.
+- [Pop!_OS](https://system76.com/pop) - Linux distribution from System76 designed for productivity and gaming.
 
 ---
 ## Programs
