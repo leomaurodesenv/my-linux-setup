@@ -24,7 +24,6 @@ My post-installation programs and extensions for Linux distributions.
 - [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
 - [Sublime Text: SFTP](https://artisansweb.net/use-ftpsftp-sublime-text/) - SFTP plugin for Sublime Text.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
-- [Visual Studio Code: Settings Sync](https://gist.github.com/leomaurodesenv/a5eb1493f611e4c710011f2da480cb2e) - Visual Studio Code Settings Sync.
 
 ### Suggested operating systems
 
@@ -50,10 +49,8 @@ My post-installation programs and extensions for Linux distributions.
 - [Rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [Xournal++](https://www.sublimetext.com/) - Handwriting notetaking software with PDF annotation support.
 
-
 ### Video
 
-- [LosslessCut](https://github.com/mifi/lossless-cut) - Split video/audio.
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Screen recorder for Linux.
 
 ---
